@@ -31,13 +31,13 @@ Este script está orientado principalmente al **post-explotación**, es decir, d
 
 > ⚙️ Se incluyen 7 imágenes de ejemplo mostrando su ejecución en diferentes laboratorios controlados:
 
-![Imagen 1](imagenes/img_1)
-![Imagen 2](imagenes/img_2)
-![Imagen 3](imagenes/img_3)
-![Imagen 4](imagenes/img_4)
-![Imagen 5](imagenes/img_5)
-![Imagen 6](imagenes/img_6)
-![Imagen 7](imagenes/img_7)
+![Imagen 1](imagenes/img_1.png)
+![Imagen 2](imagenes/img_2.png)
+![Imagen 3](imagenes/img_3.png)
+![Imagen 4](imagenes/img_4.png)
+![Imagen 5](imagenes/img_5.png)
+![Imagen 6](imagenes/img_6.png)
+![Imagen 7](imagenes/img_7.png)
 
 ---
 ## 🚀 Uso
