@@ -43,6 +43,8 @@ Este script está orientado principalmente al **post-explotación**, es decir, d
 ## 🚀 Uso
 
 ```bash
+git clone https://github.com/anonymous-17-03/RootInspector.git
+cd RootInspector
 chmod +x RootInspector.sh
 ./RootInspector.sh
 ```
